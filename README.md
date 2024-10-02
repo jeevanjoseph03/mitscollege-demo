@@ -1,3 +1,3 @@
 # mitscollege-demo
 this is my first repository
-Author - JEEVAN GEORGE
+Author - JEEVAN GEORGE JOSEPH
